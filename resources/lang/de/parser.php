@@ -4,9 +4,9 @@ return [
 
 
     'supplement' => [
-        'name' => '[Name Missing]',
-        'email' => '[Email Missing]',
-        'content' => '[Content Missing]'
+        'name' => '[Name fehlt]',
+        'email' => '[E-Mail fehlt]',
+        'content' => '[Inhalt fehlt]'
     ],
 
 ];

@@ -15,10 +15,10 @@ return [
     'statamic_version' => 'Statamic Version',
     'meerkat_version' => 'Meerkat Version',
     'server_type' => 'Software Name',
-    'clear_route_cache' => 'Clear Route Cache',
+    'clear_route_cache' => 'Routen Cache leeren',
 
-    'route_clear_artisan_header' => 'Clearing the Route Cache With Artisan',
-    'route_clear_artisan_instructions' => 'To clear the route cache using Laravel\'s Artisan command-line utility, issue the following command in the directory: :directory:',
+    'route_clear_artisan_header' => 'Den Routen Cache mit Artisan leeren',
+    'route_clear_artisan_instructions' => 'Um den Routen Cache mit Laravel\'s Artisan Kommandozeilenbefehl zu leeren, muss der folgende Befehl im Verzeichnis :directory eingegeben werden:',
 
     'route_clear_manual_header' => 'Clearing the Route Cache Manually',
     'route_clear_manual_instructions' => 'To manually clear the route cache, locate and remove the following file on all servers your site runs on:',

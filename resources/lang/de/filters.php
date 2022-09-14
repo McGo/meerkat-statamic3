@@ -2,15 +2,14 @@
 
 return [
 
-    'toggle' => 'Click to toggle the filter display',
+    'toggle' => 'Klicken um die Anzeige des Filter umzuschalten',
 
-    'all' => 'All',
-    'published' => 'Published',
-    'spam' => 'Spam',
-    'pending' => 'Pending',
+    'all' => 'Alle',
+    'published' => 'Veröffentlicht',
+    'spam' => 'SPAM',
+    'pending' => 'Ausstehend',
 
-    'no_data' => 'We\'ve searched everywhere and found nothing',
-    'no_data_filter' => 'This is most likely due to the current filters',
-    'search_placeholder' => 'Search within comments...'
-
+    'no_data' => 'Wir haben überall gesucht aber nichts gefunden',
+    'no_data_filter' => 'Das liegt vermutlich an den gesetzten Filtern',
+    'search_placeholder' => 'Kommentare durchsuchen...'
 ];

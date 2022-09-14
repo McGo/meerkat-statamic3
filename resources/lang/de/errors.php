@@ -2,8 +2,8 @@
 
 return [
 
-    'message' => 'Something unexpected happened.',
-    'general' => 'An error was encountered while performing the action. Would you like to try again?',
+    'message' => 'Da ist irgendetwas unerwartetes passiert.',
+    'general' => 'Beim Ausführen des Befehls ist ein Fehler aufgetreten. Erneut versuchen?',
     'permissions' => 'You do not have permissions to complete this action. Please contact your site administrator for more information.',
 
     'process_repeated_failure' => 'This action has failed numerous times. Would you like to try again?',

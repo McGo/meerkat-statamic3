@@ -3,8 +3,8 @@
 return [
 
     'akismet' => 'Akismet',
-    'word' => 'Word Filter',
+    'word' => 'Wort Filter',
     'ip' => 'IP Filter',
-    'deceptive' => 'Deceptive HTML Markup'
+    'deceptive' => 'Seltsames HTML Markup'
 
 ];

@@ -3,23 +3,23 @@
 return [
 
     'transform' => [
-        'true' => 'Yes',
-        'false' => 'No'
+        'true' => 'Ja',
+        'false' => 'Nein'
     ],
 
     'author' => [
         'name' => 'Name',
-        'email' => 'Email',
+        'email' => 'E-Mail',
         'user_agent' => 'User Agent',
-        'user_ip' => 'IP Address',
+        'user_ip' => 'IP Addresse',
         'referer' => 'Referrer',
     ],
 
     'comment' => [
-        'date' => 'Date',
-        'content' => 'Comment',
-        'is_spam' => 'Spam',
-        'published' => 'Published'
+        'date' => 'Datum',
+        'content' => 'Kommentar',
+        'is_spam' => 'SPAM',
+        'published' => 'Veröffentlicht'
     ]
 
 ];
