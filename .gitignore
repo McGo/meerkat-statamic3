@@ -3,3 +3,4 @@ src/.idea/*
 /.idea/*
 /.vs/*
 /src/Core/.idea/*
+.DS_Store
