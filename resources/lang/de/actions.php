@@ -31,8 +31,8 @@ return [
     'select_comment' => 'Select this comment',
     'select_all_comments' => 'Select all visible comments',
 
-    'bulk_perform_action' => 'Perform Action',
-    'bulk_list_approve' => 'Publish the selected comment(s)',
+    'bulk_perform_action' => 'Befehl ausführen',
+    'bulk_list_approve' => 'Veröffentliche gewählte Kommentare',
     'bulk_list_unapprove' => 'Unpublish the selected comment(s)',
     'bulk_list_delete' => 'Delete the selected comment(s)',
     'bulk_list_spam' => 'Mark the selected comment(s) as spam',
